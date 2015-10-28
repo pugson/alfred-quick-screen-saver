@@ -5,4 +5,4 @@ Set by default to ⌃⌥⎋ `(control + option + esc)`
 
 You can change it in Alfred to suit your preference.
 
-[Direct Download (.alfredworkflow)](http://wojtek.im/Quick%20Screen%20Saver.alfredworkflow)
+[Direct Download (.alfredworkflow)](https://github.com/dubstrike/alfred-quick-screen-saver/raw/master/Quick%20Screen%20Saver.alfredworkflow)
